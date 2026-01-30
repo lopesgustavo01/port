@@ -7,28 +7,28 @@ const projects = [
     description: "dashboard para avaliação de lojas/restaurantes. Utilizando graficos, tabela e Ia para gerar relatorio geral.",
     technologies: ["React", "TypeScript", "Tailwind", "Chart.js", "python", "gemini"],
     github: "https://github.com/lopesgustavo01/challenger_god_level",
-    image: "/p1.png",
+    image: "/port/p1.png",
   },
   {
     title: "Projeto 2",
     description: "Sistema de gestão de salas, controle de organização e gestão de salas, como um dashboard para análises.",
     technologies: ["React.ts", "Node.js", "PostgreSQL", "Prisma", "Tailwind", "Express.js"],
     github: "https://github.com/HU-FURG",
-    image: "/p2.png",
+    image: "/port/p2.png",
   },
   {
     title: "Projeto 3",
     description: "Projeto em Python para monitoramento e aviso de processos para windows",
     technologies: ["Python", "Windows", "tkinter", "psutil"],
     github: "https://github.com/HU-FURG/MHU-app",
-    image: "/p3.png",
+    image: "/port/p3.png",
   },
   {
     title: "Projeto 4",
     description: "Proxy simples utilizando web scraping",
     technologies: ["python", "flask", "BeautifulSoup", "web scraping"],
     github: "https://github.com/lopesgustavo01/Web-Proxy",
-    image: "/p4.png",
+    image: "/port/p4.png",
   },
 ];
 

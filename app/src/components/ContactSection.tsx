@@ -1,6 +1,6 @@
 
 import ScrollReveal from "./ScrollReveal";
-import { Send, Terminal, Github, Linkedin, Mail } from "lucide-react";
+import {  Github, Linkedin, Mail } from "lucide-react";
 
 const ContactSection = () => {
   
@@ -38,7 +38,7 @@ const ContactSection = () => {
                     className="flex items-center gap-3 text-muted-foreground hover:text-primary transition-colors group"
                   >
                     <Mail className="w-5 h-5 group-hover:neon-glow-sm" />
-                    <span>seu@email.com</span>
+                    <span>lglopes1789@email.com</span>
                   </a>
                 </div>
               </div>
